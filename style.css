@@ -43,12 +43,12 @@ header nav ul li a {
 .list {
     margin-left: 22px;
 }
-main#about {
+.about {
     align-items: center;
     justify-content: center;
     display: flex;
 }
-main#about img {
+.about-1 img {
     flex: 1;
     width: 20rem;
     height: 20rem;
